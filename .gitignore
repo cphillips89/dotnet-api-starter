@@ -1,0 +1,4 @@
+**/bin/
+**/obj/
+*.pem
+*.DS_Store
