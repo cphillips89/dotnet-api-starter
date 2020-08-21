@@ -1,4 +1,4 @@
-# netcore-docker-starter
+# dotnet-api-starter
 A starter template project for a Dotnet core api with Docker, x-unit, and 
 a preconfigured healthcheck endpoint. 
 
